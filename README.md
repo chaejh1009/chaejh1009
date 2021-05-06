@@ -32,10 +32,10 @@
 <!-- 숫자 목록 -->
 1. 일번
 2. 이번
-3. 삼번
-4.사번
-5.오번
-6.육번
+3. 삼번<br>
+4.사번<br>
+5.오번<br>
+6.육번<br>
 
 <!--
 **chaejh1009/chaejh1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
